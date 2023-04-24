@@ -1,9 +1,8 @@
 # PROJECT ON SIMPLE SHELL
 **This project was carried out in pairs betweeen**
 
-[Hammad Olamilekan](https://github.com/lexycon002) and 
-
-[Gift Agbro](https://github.com/Giftagbro)
+-- [Hammad Olamilekan](https://github.com/lexycon002) and 
+-- [Gift Agbro](https://github.com/Giftagbro)
 
 **What is a simple shell**
 
